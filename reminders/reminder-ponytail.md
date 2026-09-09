@@ -1,5 +1,5 @@
 ---
-when:.
+when:
   hook: SessionStart
 priority: 100
 ---
